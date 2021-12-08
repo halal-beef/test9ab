@@ -27,7 +27,4 @@ PRODUCT_STATIC_BOOT_CONTROL_HAL := \
 
 PRODUCT_PACKAGES += \
     otapreopt_script \
-    cppreopts.sh \
-    update_engine \
-    update_verifier \
-    update_engine_sideload
+    cppreopts.sh
