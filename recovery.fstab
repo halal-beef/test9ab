@@ -25,4 +25,3 @@
 /seccfg           emmc     /dev/block/platform/bootdevice/by-name/seccfg
 /sspm             emmc     /dev/block/platform/bootdevice/by-name/sspm         flags=slotselect
 /spmfw            emmc     /dev/block/platform/bootdevice/by-name/spmfw        flags=slotselect
-/vbmeta           ext4     /dev/block/platform/bootdevice/by-name/vbmeta       flags=display="Vbmeta";flashimg=1;slotselect
