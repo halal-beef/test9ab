@@ -94,3 +94,9 @@ TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
+TWRP_INCLUDE_LOGCAT := true
+TARGET_USES_LOGD := true
+
+# PBRP
+PB_TORCH_PATH := /sys/devices/virtual/flashlight_core/flashlight/flashlight_current
+PB_DISABLE_DEFAULT_DM_VERITY := true
