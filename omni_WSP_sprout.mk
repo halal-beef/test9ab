@@ -18,5 +18,5 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := WSP_sprout
 PRODUCT_NAME := omni_WSP_sprout
 PRODUCT_BRAND := Nokia
-PRODUCT_MODEL := Nokia 2.2
+PRODUCT_MODEL := 2.2
 PRODUCT_MANUFACTURER := hmd
